@@ -4,8 +4,8 @@ JavaScript User Group graphic materials
 
 # Preview
 
-![NTUU 'KPI' facade](svg/kpi_facade.svg)
+![NTUU 'KPI' facade](png/kpi_facade.png)
 
-![Circle sticker](svg/logo_circle.svg)
+![Circle sticker](png/logo_circle.png)
 
-![Square sticker](svg/logo_square.svg)
+![Square sticker](png/logo_square.png)
